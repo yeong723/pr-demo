@@ -8,7 +8,7 @@ function createData(name,github,link){
 }
 const rows = [
   // 데모의 이름, 깃허브 주소, 서버에서 라우팅하는 주소를 입력
-  createData('dudu','https://github.com/yeong723/javascript_lecture/tree/main/java%20script/doduge','/doduge'),
+  createData('doduge','https://github.com/yeong723/javascript_lecture/tree/main/java%20script/doduge','/doduge'),
   createData('memory','https://github.com/yeong723/javascript_lecture/tree/main/java%20script/%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B2%8C%EC%9E%84','/memo'),
   createData('snake','https://github.com/yeong723/javascript_lecture/tree/main/java%20script/snake','/snake'),
 ]
